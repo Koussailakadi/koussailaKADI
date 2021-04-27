@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **kadi.koussaila@outllok.fr**
 
+
+## Langages de programmation:
+<img src ="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/c-program.svg"   width="40" height="40"/><img src="https://pandas.pydata.org/" alt="langage C" width="40" height="40"/><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="C++" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="CMake" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="JAVA" width="40" height="40"/><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/mathworks.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="MATLAB" width="40" height="40"/>
+
+## Langage de balisage:
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="XML" width="40" height="40"/>
+
+## Langages de description:
+<img src="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/vhdl.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="VHDL" width="40" height="40"/>
+
 ## Libraries: 
 <p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Qt" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Tensorflow" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="matplotlib" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="keras" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Sklearn" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SymPy" width="40" height="40"/>
 
@@ -16,17 +26,6 @@
  
 ## Data Query: 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="MySQL" width="40" height="40"/>
-
-  
-  
-## Langages de programmation:
-<img src ="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/c-program.svg"   width="40" height="40"/><img src="https://pandas.pydata.org/" alt="langage C" width="40" height="40"/><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="C++" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="CMake" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="JAVA" width="40" height="40"/><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/mathworks.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="MATLAB" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="XML" width="40" height="40"/>
-
-## Langages de description:
-<img src="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/vhdl.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="VHDL" width="40" height="40"/>
-
 
 
 
