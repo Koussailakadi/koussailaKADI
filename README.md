@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **kadi.koussaila@outllok.fr**
 
-<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Qt" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg
-  " width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/>
+<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Qt" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/>
   
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihebnabil&layout=compact&hide=html" alt="chihebnabil" /></p>
