@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kadi.koussaila@outllok.fr**
 
-<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" height="40"/>
+<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="40" height="40"/> <img src="" alt="Qt" width="40" height="40"/>
   
   
   
