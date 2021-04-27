@@ -24,6 +24,10 @@
 
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="XML" width="40" height="40"/>
 
+## Langages de description:
+<img src="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/vhdl.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="VHDL" width="40" height="40"/>
+
+
 
 
 ## IDE :
