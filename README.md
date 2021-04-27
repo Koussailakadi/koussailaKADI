@@ -18,7 +18,7 @@
 
 
 ## IDE :
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pycharm" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="jupyter" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/640px-Eclipse-Luna-Logo.svg.png" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Eclipse" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pycharm" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="jupyter" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/800px-Eclipse-Luna-Logo.svg.png" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Eclipse" width="40" height="40"/>
 
 * Visual Studio Code
 * Code blocks
