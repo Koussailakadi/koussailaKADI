@@ -24,7 +24,7 @@
 
  
  
-## Data Query: 
+## Data & SQL: 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="MySQL" width="40" height="40"/>
 
 
