@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chihebnabil" alt="chihebnabil" /> </p>
 
-- 🌱 I’m currently learning **Flutter , ReactNative**
+- 🌱 I’m currently learning **Robotics , Deep Learning**
 
 - 💬 Ask me about **Python , C++ , Deep Learning , Machine learning, image processing**
 
