@@ -43,6 +43,9 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
 
 ## Robotique: 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="ROS" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Gazebo" width="40" height="40"/>
+
+
   
   
   
