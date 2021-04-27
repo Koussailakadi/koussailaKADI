@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **kadi.koussaila@outllok.fr**
 
-<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt=Pandas width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </p>
-
+<p align="left"> <img src=https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg alt="Pandas" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Pandas" width="40" height="40"/>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihebnabil&layout=compact&hide=html" alt="chihebnabil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true" alt="chihebnabil" /></p>
