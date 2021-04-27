@@ -40,6 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true" alt="chihebnabil" /></p>
 
 <p align="center">
-<a href="https://twitter.com/nabilchiheb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nabilchiheb" height="30" width="30" /></a>
-<a href="https://fb.com/chihebnabil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chihebnabil" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/koussaila-kadi-7581671a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="koussailaKADI" height="30" width="30" /></a>
+
 </p>
