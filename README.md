@@ -59,7 +59,7 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
   
   
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihebnabil&layout=compact&hide=html" alt="chihebnabil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koussailakadi&layout=compact&hide=html" alt="chihebnabil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koussailakadi&show_icons=true" alt="koussailaKADI" /></p>
 
