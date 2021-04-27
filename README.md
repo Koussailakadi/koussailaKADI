@@ -1,3 +1,5 @@
+Author: koussaila KADI
+
 <h1 align="center">Hi 👋, I'm koussaila KADI</h1>
 <h3 align="center">A passionate master student on Robotics and intelligent systems</h3>
 
