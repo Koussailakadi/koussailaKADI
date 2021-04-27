@@ -49,10 +49,7 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
   
   
   
- 
-
-  
-  
+## Formations en ligne:
   
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="coursera" width="40" height="40"/>
   
