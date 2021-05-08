@@ -2,7 +2,7 @@ Author: koussaila KADI
 
 
 
-<img src ="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/c-program.svg"   width="40" height="40"/>
+<img src ="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/img5.gif"   width="100" height="50"/>
 
 
 <h1 align="center">Hi 👋, I'm koussaila KADI</h1>
