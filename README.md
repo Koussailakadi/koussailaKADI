@@ -1,5 +1,10 @@
 Author: koussaila KADI
 
+
+
+<img src ="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/c-program.svg"   width="40" height="40"/>
+
+
 <h1 align="center">Hi 👋, I'm koussaila KADI</h1>
 <h3 align="center">A passionate master student on Robotics and intelligent systems</h3>
 
