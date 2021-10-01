@@ -14,7 +14,7 @@ Author: koussaila KADI
 
 - 💬 Ask me about **Python , C++ , Deep Learning , Machine learning, image processing**
 
-- 📫 How to reach me **kadi.koussaila@outook.fr**
+- 📫 How to reach me **kadi.koussaila@outlook.fr**
 
 
 ## Langages de programmation:
