@@ -8,7 +8,7 @@ Author: koussaila KADI
 <h1 align="center">Hi 👋, I'm koussaila KADI</h1>
 <h3 align="center">A passionate master student on Robotics and intelligent systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chihebnabil" alt="chihebnabil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Koussailakadi" alt="Koussailakadi" /> </p>
 
 - 🌱 I’m currently learning **Robotics , Deep Learning**
 
